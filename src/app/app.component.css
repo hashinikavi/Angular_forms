@@ -3,5 +3,5 @@
 }
 
 input.ng-invalid.ng-touched{
-  border: 1px solid red;
+  border: 1px solid rgb(195, 8, 8)(188, 15, 15);
 }
